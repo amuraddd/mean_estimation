@@ -1,4 +1,4 @@
-### Estimation of the Mean Function of Functional Data via Deep Neural Networks  
+## Estimation of the Mean Function of Functional Data via Deep Neural Networks  
 
 ### Recommended Set-up
 Before running the code:
