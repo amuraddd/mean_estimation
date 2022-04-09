@@ -1,4 +1,9 @@
-### Estimation of the Mean Function of the Functional Data via Deep Neural Networks  
+### Estimation of the Mean Function of Functional Data via Deep Neural Networks  
+
+### Recommended Set-up
+Before running the code:
+1. Set up a python virtual environment
+2. Install package dependencies listed in `requirements.txt`  
 
 ### Data
 The format of the images used to build the code in this reposiroty is `nii`. If the preprocessing function contained within this repository is used then  
