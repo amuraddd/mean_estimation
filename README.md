@@ -6,8 +6,7 @@ Before running the code:
 2. Install package dependencies listed in `requirements.txt`  
 
 ### Data
-The format of the images used to build the code in this reposiroty is `nii`. If the preprocessing function contained within this repository is used then  
-the data must follow the same format, and the location containing all images must be passed to the `preprocess_image` function.
+The format of the images used to build the code in this reposiroty is `nii`. If the preprocessing function contained within this repository is used then the data must follow the same format, and the location containing all images must be passed to the `preprocess_image` function.
 
 ### How to run the code below
 To run the code below import the `preprocesing` function from utils and the `train_predict` function from models.  
